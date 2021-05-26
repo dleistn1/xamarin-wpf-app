@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2kQQ0LFxVtXal9g0ilLMmkCUBr4MTdn04sZJO0zN9oca/5pvgbYtNsxh5XR9UX+F0tx2p4P5gR+A/WXXQiSGrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniel.leistner\\Documents\\Projects\\dotnet-playground\\windows-ui-frameworks\\xamarin-sample\\Tests\\XamarinSample.UITests\\XamarinSample.UITests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniel.leistner\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\daniel.leistner\\.nuget\\packages\\xamarin.uitest\\3.0.7\\xamarin.uitest.3.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

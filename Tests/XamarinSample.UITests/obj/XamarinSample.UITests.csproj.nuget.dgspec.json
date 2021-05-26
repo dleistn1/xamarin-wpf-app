@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\daniel.leistner\\Documents\\Projects\\dotnet-playground\\windows-ui-frameworks\\xamarin-sample\\Tests\\XamarinSample.UITests\\XamarinSample.UITests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\daniel.leistner\\Documents\\Projects\\dotnet-playground\\windows-ui-frameworks\\xamarin-sample\\Tests\\XamarinSample.UITests\\XamarinSample.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\daniel.leistner\\Documents\\Projects\\dotnet-playground\\windows-ui-frameworks\\xamarin-sample\\Tests\\XamarinSample.UITests\\XamarinSample.UITests.csproj",
+        "projectName": "XamarinSample.UITests",
+        "projectPath": "C:\\Users\\daniel.leistner\\Documents\\Projects\\dotnet-playground\\windows-ui-frameworks\\xamarin-sample\\Tests\\XamarinSample.UITests\\XamarinSample.UITests.csproj",
+        "packagesPath": "C:\\Users\\daniel.leistner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniel.leistner\\Documents\\Projects\\dotnet-playground\\windows-ui-frameworks\\xamarin-sample\\Tests\\XamarinSample.UITests\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\daniel.leistner\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.0.7, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

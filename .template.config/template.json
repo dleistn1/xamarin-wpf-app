@@ -1,0 +1,12 @@
+{
+    "author": "Daniel Leistner",
+    "classifications": [ "Multiplatform" ],
+    "name": "Xamarin Forms with WPF and Prism",
+    "identity": "XamarinWPFPrism", 
+    "shortName": "xamwpf",                 
+    "tags": {
+        "language": "C#"                      
+    },
+    "sourceName": "XamarinSample", 
+    "preferNameDirectory" : "true"
+}
